@@ -16,9 +16,17 @@
 */
 let isLoggedIn= 1;
 let booleanIsLoggedIn=Boolean(isLoggedIn);
-console.log(booleanIsLoggedIn);
+// console.log(booleanIsLoggedIn);
 
 let num=15;
 let stringNumber=String(num)
-console.log(stringNumber)
-console.log( typeof stringNumber)
+// console.log(stringNumber)
+// console.log( typeof stringNumber)
+ 
+// console.log(undefined>0);
+// console.log(undefined>=0);
+// console.log(undefined==0);
+ 
+console.log(null>0);
+console.log(null>=0);
+console.log(null==0);
